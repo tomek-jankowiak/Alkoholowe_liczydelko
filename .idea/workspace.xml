@@ -1,0 +1,175 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="5035bd7f-a951-4500-903d-c03a553dc869" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/alkomacik$test_plt.coverage" NAME="test_plt Coverage Results" MODIFIED="1579286781140" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/libs/garden/garden.matplotlib/examples" />
+    <SUITE FILE_PATH="coverage/alkomacik$main.coverage" NAME="main Coverage Results" MODIFIED="1579545935980" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>main_lay</find>
+      <find>main_layout</find>
+      <find>small_beer</find>
+      <find>id</find>
+      <find>burn</find>
+      <find>drank</find>
+      <find>weight</find>
+      <find>EBAC</find>
+      <find>bones</find>
+      <find>fat</find>
+      <find>calcu</find>
+      <find>permilles</find>
+      <find>permiles</find>
+      <find>water</find>
+      <find>FigureCanvas</find>
+    </findStrings>
+  </component>
+  <component name="ProjectId" id="1dp5zco24gIXdSxgkc4kCuRtIuT" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../1" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="restartRequiresConfirmation" value="false" />
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="alkomacik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test_plt" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="alkomacik" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/libs/garden/garden.matplotlib/examples" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/libs/garden/garden.matplotlib/examples/test_plt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.test_plt" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5035bd7f-a951-4500-903d-c03a553dc869" name="Default Changelist" comment="" />
+      <created>1578156889932</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1578156889932</updated>
+      <workItem from="1578156894843" duration="14000" />
+      <workItem from="1578157231697" duration="1498000" />
+      <workItem from="1578162320817" duration="5205000" />
+      <workItem from="1578179191473" duration="4406000" />
+      <workItem from="1578230437454" duration="8564000" />
+      <workItem from="1578243285758" duration="1604000" />
+      <workItem from="1578380694331" duration="185000" />
+      <workItem from="1578382452316" duration="3400000" />
+      <workItem from="1578386626731" duration="3880000" />
+      <workItem from="1578396192567" duration="2393000" />
+      <workItem from="1578491924164" duration="8067000" />
+      <workItem from="1578506890215" duration="340000" />
+      <workItem from="1578573189429" duration="4135000" />
+      <workItem from="1578579757030" duration="2026000" />
+      <workItem from="1578770896608" duration="657000" />
+      <workItem from="1579111548934" duration="7205000" />
+      <workItem from="1579128200961" duration="3297000" />
+      <workItem from="1579193603676" duration="2042000" />
+      <workItem from="1579269880021" duration="10657000" />
+      <workItem from="1579281755819" duration="80000" />
+      <workItem from="1579281905651" duration="626000" />
+      <workItem from="1579282586838" duration="670000" />
+      <workItem from="1579283296850" duration="579000" />
+      <workItem from="1579283960737" duration="118000" />
+      <workItem from="1579284409780" duration="431000" />
+      <workItem from="1579285101844" duration="4713000" />
+      <workItem from="1579302220909" duration="8391000" />
+      <workItem from="1579356846570" duration="54000" />
+      <workItem from="1579360049466" duration="19000" />
+      <workItem from="1579388513825" duration="1063000" />
+      <workItem from="1579390031006" duration="534000" />
+      <workItem from="1579450292813" duration="227000" />
+      <workItem from="1579455218546" duration="358000" />
+      <workItem from="1579514776456" duration="244000" />
+      <workItem from="1579544481167" duration="1926000" />
+      <workItem from="1593109464437" duration="20000" />
+      <workItem from="1593109511715" duration="8000" />
+      <workItem from="1593109546023" duration="23000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog" timestamp="1593109545095">
+      <screen x="0" y="0" width="1536" height="824" />
+    </state>
+    <state x="470" y="236" key="com.intellij.ide.util.TipDialog/0.0.1536.824@0.0.1536.824" timestamp="1593109545095" />
+  </component>
+</project>
